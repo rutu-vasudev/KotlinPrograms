@@ -1,0 +1,12 @@
+
+fun main(args : Array<String>){
+
+    
+    println("4.554 to int: " + (4.554.toInt()))
+
+    
+    println("66 to Char: " + (65.toChar()))
+
+    
+    println("B to int: " + ('B'.toInt()))
+}

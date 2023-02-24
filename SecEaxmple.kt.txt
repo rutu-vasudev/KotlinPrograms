@@ -1,0 +1,32 @@
+
+class secondExample {
+init {
+println("Your Second Example")
+}
+constructor(x: Int) {
+println("Your second example class have constructor $x")
+}
+class subclas
+{
+fun add()
+{
+var c: Int = 12
+var a : Int = 13
+var b :Int = 15
+c= a + b
+print(c)
+}
+}
+}
+fun main() {
+secondExample(1)
+secondExample(2)
+secondExample(3)
+secondExample(4)
+secondExample(5)
+secondExample(6)
+secondExample(7)
+secondExample(8)
+secondExample(9)
+secondExample(10)
+}
